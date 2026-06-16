@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Anthony",
+    "age": 19,
+    "email": "anthony19@example.com",
+    "password": "Anthony@2025"
+  },
+  {
+    "id": 2,
+    "name": "Narek",
+    "age": 37,
+    "email": "narek37@example.com",
+    "password": "Narek@2025"
+  },
+  {
+    "id": 3,
+    "name": "Aram",
+    "age": 27,
+    "email": "aram27@example.com",
+    "password": "Aram@2025"
+  },
+  {
+    "id": 4,
+    "name": "Saqo",
+    "age": 22,
+    "email": "saqo22@example.com",
+    "password": "Saqo@2025"
+  },
+  {
+    "id": 5,
+    "name": "Vrej",
+    "age": 22,
+    "email": "vrej22@example.com",
+    "password": "Vrej@2025"
+  },
+  {
+    "id": 6,
+    "name": "Vache",
+    "age": 49,
+    "email": "vache49@example.com",
+    "password": "Vache@2025"
+  },
+  {
+    "id": 7,
+    "name": "Vahe",
+    "age": 48,
+    "email": "vahe48@example.com",
+    "password": "Vahe@2025"
+  },
+  {
+    "id": 8,
+    "name": "Andranik",
+    "age": 29,
+    "email": "andranik29@example.com",
+    "password": "Andranik@2025"
+  },
+  {
+    "id": 9,
+    "name": "Noro",
+    "age": 18,
+    "email": "noro18@example.com",
+    "password": "Noro@2025"
+  },
+  {
+    "id": 10,
+    "name": "Karen",
+    "age": 35,
+    "email": "karen35@example.com",
+    "password": "Karen@2025"
+  }
+]
